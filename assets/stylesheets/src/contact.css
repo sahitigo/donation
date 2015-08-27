@@ -1,0 +1,13 @@
+#page1 {
+  padding: 10vh 0 0 0;
+  background-color: #f5cf4c; }
+  #page1 .image {
+    display: inline-block;
+    padding-left: 1em;
+    padding-bottom: 8em; }
+  #page1 .heading {
+    font-weight: bold;
+    margin-left: -6em;
+    font-size: 18px; }
+
+/*# sourceMappingURL=contact.css.map */

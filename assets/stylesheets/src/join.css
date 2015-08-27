@@ -1,0 +1,20 @@
+#join {
+  padding: 2em 0; }
+  #join h2, #join form {
+    margin: 1em auto;
+    text-align: center; }
+  #join .black {
+    background-color: #000000;
+    padding: 5vh 0; }
+  #join .white {
+    background-color: #ffffff;
+    padding: 5vh 0; }
+    #join .white .cr {
+      text-align: center; }
+    #join .white .inc {
+      padding-bottom: 10px;
+      padding-left: 10em; }
+      #join .white .inc .big {
+        margin-right: 18px; }
+
+/*# sourceMappingURL=join.css.map */

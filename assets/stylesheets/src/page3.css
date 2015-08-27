@@ -1,0 +1,17 @@
+#page3 {
+  border-bottom: 1px solid #49240B; }
+  #page3 img {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); }
+  #page3 .sidebar {
+    background-color: #49240B;
+    padding-top: 23em;
+    padding-left: 3em;
+    color: white;
+    font-size: 14px;
+    display: inline-block; }
+
+/*# sourceMappingURL=page3.css.map */

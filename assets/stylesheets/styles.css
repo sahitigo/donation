@@ -1,0 +1,114 @@
+.full-height {
+  height: 100vh;
+  display: block; }
+
+.half-height {
+  height: 50vh;
+  max-width: 100%; }
+
+footer {
+  text-align: center;
+  padding: 5em 0 2em; }
+
+/*# sourceMappingURL=common.css.map */
+
+body {
+  font-family: 'Handlee', cursive;
+  font-weight: 600;
+  overflow-x: hidden;
+  background-color: #f5cf4c; }
+
+header nav.navbar {
+  background-color: #f5cf4c;
+  border: none;
+  margin-right: 4em;
+  margin-left: 6em;
+  margin-top: 1em; }
+  header nav.navbar ul {
+    margin: 3em; }
+    header nav.navbar ul li a {
+      color: #49240B; }
+    header nav.navbar ul img {
+      margin-top: -15px;
+      width: 6em; }
+
+#land {
+  width: 100%;
+  height: 90vh; }
+  #land .mov {
+    margin-left: 32%; }
+  #land .move {
+    margin-left: 14em;
+    margin-top: 4em;
+    font-family: 'Handlee', cursive;
+    color: #49240b; }
+
+/*# sourceMappingURL=land.css.map */
+
+#page1 {
+  padding: 10vh 0 0 0;
+  background-color: #f5cf4c; }
+  #page1 .image {
+    display: inline-block;
+    padding-left: 1em;
+    padding-bottom: 8em; }
+  #page1 .heading {
+    font-weight: bold;
+    margin-left: -6em;
+    font-size: 18px; }
+
+/*# sourceMappingURL=contact.css.map */
+
+#page2 .half {
+  background-color: #49240B;
+  padding-top: 23em;
+  padding-left: 3em;
+  color: white;
+  font-size: 14px;
+  display: inline-block; }
+#page2 .half-height {
+  margin: 0 -15px; }
+  #page2 .half-height img {
+    width: 100%;
+    height: 50vh; }
+
+/*# sourceMappingURL=page2.css.map */
+
+#page3 {
+  border-bottom: 1px solid #49240B; }
+  #page3 img {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); }
+  #page3 .sidebar {
+    background-color: #49240B;
+    padding-top: 23em;
+    padding-left: 3em;
+    color: white;
+    font-size: 14px;
+    display: inline-block; }
+
+/*# sourceMappingURL=page3.css.map */
+
+#join {
+  padding: 2em 0; }
+  #join h2, #join form {
+    margin: 1em auto;
+    text-align: center; }
+  #join .black {
+    background-color: #000000;
+    padding: 5vh 0; }
+  #join .white {
+    background-color: #ffffff;
+    padding: 5vh 0; }
+    #join .white .cr {
+      text-align: center; }
+    #join .white .inc {
+      padding-bottom: 10px;
+      padding-left: 10em; }
+      #join .white .inc .big {
+        margin-right: 18px; }
+
+/*# sourceMappingURL=join.css.map */

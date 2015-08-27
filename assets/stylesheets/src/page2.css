@@ -1,0 +1,14 @@
+#page2 .half {
+  background-color: #49240B;
+  padding-top: 23em;
+  padding-left: 3em;
+  color: white;
+  font-size: 14px;
+  display: inline-block; }
+#page2 .half-height {
+  margin: 0 -15px; }
+  #page2 .half-height img {
+    width: 100%;
+    height: 50vh; }
+
+/*# sourceMappingURL=page2.css.map */

@@ -1,0 +1,28 @@
+#join{
+  padding: 2em 0;
+  
+  h2, form {
+    margin: 1em auto;
+    text-align: center;
+  }
+
+  .black{
+    background-color:#000000;
+    padding:5vh 0;
+  }
+  .white{
+    background-color: #ffffff;
+    padding:5vh 0;  
+    .cr{
+      text-align: center;
+    }
+    .inc{
+      padding-bottom:10px;
+      padding-left:10em;
+      .big{
+        margin-right:18px;
+        
+      }
+    }
+  }
+}
